@@ -13,10 +13,14 @@ Barcelona hat im Laufe der Jahre zahlreiche nationale und internationale Trophä
 
 ```
 Tikitaka:
-Der Verein ist bekannt für sein einzigartiges Spielsystem, genannt "Tiki-Taka", das auf Ballbesitz, schnellen Pässen und fließendem Spiel basiert. Die Liste der herausragenden Spieler, die das Barcelona-Trikot getragen haben, ist lang und umfasst Legenden wie Johan Cruyff, Diego Maradona, Ronaldinho und Lionel Messi, der viele Jahre lang das Gesicht des Clubs war und als einer der größten Fußballer aller Zeiten gilt.
+Der Verein ist bekannt für sein einzigartiges Spielsystem, 
+genannt "Tiki-Taka", das auf Ballbesitz, schnellen Pässen und fließendem Spiel 
+basiert. Die Liste der herausragenden Spieler, 
+die das Barcelona-Trikot getragen haben, 
+ist lang und umfasst Legenden wie Johan Cruyff, Diego Maradona,
+Ronaldinho und Lionel Messi, der viele Jahre lang das Gesicht des Clubs war 
+und als einer der größten Fußballer aller Zeiten gilt.
 ```
-
-
 
 Neben seinem sportlichen Erfolg ist der FC Barcelona auch für sein soziales Engagement und seine Bemühungen um die Förderung von Bildung und Integration bekannt. Der Club betreibt eine der besten Fußballakademien der Welt, La Masia, die Talente ausbildet und fördert, und engagiert sich in verschiedenen wohltätigen Projekten zur Unterstützung der Gemeinschaft.
 
