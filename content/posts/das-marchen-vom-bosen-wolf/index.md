@@ -1,7 +1,7 @@
 +++
 title = "Das Märchen vom bösen Wolf"
 date = "2024-05-06"
-draft = true
+draft = false
 pinned = false
 +++
 # Das Märchen vom bösen Wolf
